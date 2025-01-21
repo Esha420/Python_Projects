@@ -7,6 +7,7 @@ An SMS Spam Classifier that uses machine learning techniques to classify whether
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Installation](#installation)
+  - [Technologies Used](#technologies-used)
 
 ## Overview
 
@@ -22,3 +23,11 @@ To set up this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/my-sms-spam-classifier.git
    cd my-sms-spam-classifier
+
+## Technologies Used
+- Python - Programming language
+- Streamlit - For building the web app interface
+- scikit-learn - For machine learning models and preprocessing
+- NLTK - Natural Language Toolkit for text preprocessing
+- Pandas - Data manipulation
+- Pickle - For model serialization and deserialization
