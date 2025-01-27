@@ -55,4 +55,4 @@ To run this project locally, follow these steps:
    git clone https://github.com/Esha420/Restaurant-Rating-Predictor.git
    cd Restaurant-Rating-Predictor
 2. **Run the python script**:
-   '''python app.py
+   python app.py
